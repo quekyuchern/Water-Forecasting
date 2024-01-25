@@ -8,3 +8,8 @@ The final pipeline included preprocessing the raw inputs, performing quantile pr
 
 ![image](https://github.com/quekyuchern/waterforecast/assets/40288437/25d7d34c-2fb9-49a8-8bab-a60195b2990a)
 
+Only the months from the issue date till the season end date will be predicted. For example:
+  - If the issue date is in Feb, and the season is from Apr till Jul, the monthly naturalized flows for Apr till Jul will be predicted.
+  - If the issue date is in Jun, and the season is from Apr till Jul, the monthly naturalized flows for Jun and Jul will be predicted, while the actual flows for Apr and May will be used.
+This means that as the issue date approaches the season end date, the range for the quantile predictions will get smaller and smaller.
+
