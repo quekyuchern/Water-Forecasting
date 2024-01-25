@@ -1,0 +1,106 @@
+{
+    "american_river_folsom_lake": {
+        "max_vol": 2690.2,
+        "min_vol": 330.0
+    },
+    "animas_r_at_durango": {
+        "max_vol": 612.552,
+        "min_vol": 83.316
+    },
+    "boise_r_nr_boise": {
+        "max_vol": 2332.055,
+        "min_vol": 418.176
+    },
+    "boysen_reservoir_inflow": {
+        "max_vol": 1234.965,
+        "min_vol": 110.384
+    },
+    "colville_r_at_kettle_falls": {
+        "max_vol": 309.711,
+        "min_vol": 35.918
+    },
+    "detroit_lake_inflow": {
+        "max_vol": 820.905,
+        "min_vol": 281.029
+    },
+    "dillon_reservoir_inflow": {
+        "max_vol": 262.917,
+        "min_vol": 54.617
+    },
+    "fontenelle_reservoir_inflow": {
+        "max_vol": 1291.024,
+        "min_vol": 260.777
+    },
+    "green_r_bl_howard_a_hanson_dam": {
+        "max_vol": 413.145,
+        "min_vol": 108.711
+    },
+    "hungry_horse_reservoir_inflow": {
+        "max_vol": 3044.761,
+        "min_vol": 1243.414
+    },
+    "libby_reservoir_inflow": {
+        "max_vol": 8484.032,
+        "min_vol": 2866.007
+    },
+    "merced_river_yosemite_at_pohono_bridge": {
+        "max_vol": 768.2,
+        "min_vol": 146.8
+    },
+    "missouri_r_at_toston": {
+        "max_vol": 3566.9,
+        "min_vol": 857.479
+    },
+    "owyhee_r_bl_owyhee_dam": {
+        "max_vol": 906.85,
+        "min_vol": 47.698
+    },
+    "pecos_r_nr_pecos": {
+        "max_vol": 110.037,
+        "min_vol": 7.7
+    },
+    "pueblo_reservoir_inflow": {
+        "max_vol": 759.522,
+        "min_vol": 91.587
+    },
+    "ruedi_reservoir_inflow": {
+        "max_vol": 208.05,
+        "min_vol": 50.293
+    },
+    "san_joaquin_river_millerton_reservoir": {
+        "max_vol": 2617.3,
+        "min_vol": 376.2
+    },
+    "skagit_ross_reservoir": {
+        "max_vol": 2123.0600000000004,
+        "min_vol": 789.8399999999999
+    },
+    "snake_r_nr_heise": {
+        "max_vol": 6096.455,
+        "min_vol": 1650.936
+    },
+    "stehekin_r_at_stehekin": {
+        "max_vol": 1031.058,
+        "min_vol": 456.027
+    },
+    "sweetwater_r_nr_alcova": {
+        "max_vol": 134.765,
+        "min_vol": 14.384
+    },
+    "taylor_park_reservoir_inflow": {
+        "max_vol": 182.06,
+        "min_vol": 34.544
+    },
+    "virgin_r_at_virtin": {
+        "max_vol": 150.5,
+        "min_vol": 15.568
+    },
+    "weber_r_nr_oakley": {
+        "max_vol": 174.672,
+        "min_vol": 56.995
+    },
+    "yampa_r_nr_maybell": {
+        "max_vol": 1532.674,
+        "min_vol": 269.218
+    }
+}
